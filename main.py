@@ -8,10 +8,3 @@ if __name__ == '__main__':
     print('date now:', today)
     print('salary def:', calc_salary())
     print('employees def:',get_employees())
-    
-
-# 3)Познакомиться с модулем datetime. При вызове функций модуля main.py выводить текущую дату.
-
-
-# 4) Создать рядом с файлом main.py модуль dirty_main.py и импортировать все функции с помощью конструкции (необязательное задание)
-# from package import *
